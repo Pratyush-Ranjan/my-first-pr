@@ -92,3 +92,5 @@
 - [@AnimatedAnand](https://github.com/AnimatedAnand)
 
 - [@Prime-5](https://github.com/Prime-5)
+
+-[@Pratyush-Ranjan](https://github.com/Pratyush-Ranjan)
